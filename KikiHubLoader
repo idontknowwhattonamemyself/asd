@@ -1,0 +1,31 @@
+--[[
+Obfuscated By Skibidi Obfuscator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--]]
+
+function a(fetch)
+print("FETCHING")
+end
+function fetch() a() end
+while true do a("true") fetch() end
